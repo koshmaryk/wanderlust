@@ -1,0 +1,10 @@
+*.class
+*.log
+
+# sbt specific
+target/
+
+# IDE specific
+.classpath
+*.iml
+.idea/
